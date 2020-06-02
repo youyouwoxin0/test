@@ -1,0 +1,11 @@
+code,name,chineseName,windCode,stDate
+nhco,nanhua_commodity,南华商品指数,NH0100.NHF,20040601
+nhin,nanhua_industry,南华工业品指数,NH0200.NHF,20040601
+nhag,nanhua_agriculture,南华农产品指数,NH0300.NHF,20040601
+nhme,nanhua_metal,南华金属指数,NH0400.NHF,20040601
+nhen,nanhua_enegy,南华能化指数,NH0500.NHF,20040601
+nhpr,nanhua_precious,南华贵金属指数,NH0600.NHF,20120907
+nhno,nanhua_nonferrous,南华有色金属指数,NH0700.NHF,20180629
+nhfe,nanhua_ferrous,南华黑色指数,NH0800.NHF,20180629
+wdfe,wind_ferrous,Wind煤焦钢矿指数,JJRI.WI,20090327
+wdno,wind_nonferrous,Wind有色金属指数,NFFI.WI,20000104

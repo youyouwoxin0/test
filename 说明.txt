@@ -1,0 +1,7 @@
+1. 生成数据的顺序是 tradingDays - product - dailyData - continuous1st/2nd - continuous00
+
+2. 每个数据类别对应的update函数接受起始结束日期，若指定了起始结束日期则其区间更新并覆盖，若不指定起始结束日期，则默认从最新的一期更新且不覆盖任何已有数据。
+
+3. 重新配置的时候要在config里面设置新的系统数据路径
+
+4. property里面的feeConst代表每份合约在原价格基础上的额外价格变化，feeRatio代表每手合约的百分比费率
